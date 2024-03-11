@@ -1,0 +1,2 @@
+Project Overview: Basic 2D Platformer
+This project is a basic 2D platformer developed using the Godot Engine. As my first venture into game development with Godot, it serves as both an introduction to the engine's capabilities and an exploration of classic platform game mechanics. The game focuses on simple yet engaging gameplay, featuring fundamental elements such as character movement, jumping, and obstacle navigation.
